@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="#DA0367"
+    tools:context=".SelectRegistrationActivity">
+  <androidx.cardview.widget.CardView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+    android:layout_marginTop="20dp"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="10dp"
+    android:elevation="10dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+      android:layout_margin="10dp"
+      android:orientation="vertical">
+      <ImageView
+          android:layout_width="150dp"
+          android:layout_height="150dp"
+          android:id="@+id/logo1"
+          android:layout_gravity="center"
+          android:layout_marginTop="10dp"
+          android:src="@drawable/bloodlogo"/>
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+
+          android:text="Once a blood donor, always a lifesaver"
+          android:textColor="#F60428"
+          android:textSize="30sp"
+          android:textStyle="bold"
+          android:layout_marginStart="20dp"
+          android:layout_marginEnd="20dp"
+          android:layout_marginTop="20dp"
+          android:gravity="center"/>
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+
+          android:text="Donate Blood And Save Life"
+          android:textColor="#F60248"
+          android:textSize="20sp"
+          android:gravity="center"
+          android:textStyle="bold"
+          android:layout_marginTop="5dp"/>
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+        android:orientation="vertical"
+          android:layout_margin="30dp">
+        <Button
+            android:id="@+id/donorregistration"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+          android:text="Donor Registration"
+            android:textSize="20sp"
+          android:textAlignment="center"
+          android:layout_gravity="center"
+            android:textColor="@color/white"
+          android:background="@drawable/button_background"/>
+        <Button
+            android:id="@+id/recipientregistration"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Recipient Registration"
+            android:layout_marginTop="20dp"
+            android:textSize="18sp"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            android:textColor="@color/white"
+            android:background="@drawable/button_background"/>
+
+      </LinearLayout>
+      <TextView
+          android:id="@+id/backButton"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Already registered?Sign in here"
+          android:textColor="@color/black"
+          android:textAlignment="center"
+          android:textSize="20sp"
+          android:textStyle="bold" />
+
+    </LinearLayout>
+  </androidx.cardview.widget.CardView>
+
+
+  </LinearLayout>

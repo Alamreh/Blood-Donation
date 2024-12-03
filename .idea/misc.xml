@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.16111111111111112" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable/button_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable/headerbackground.xml" value="0.16018518518518518" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable/ic_check.xml" value="0.1" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable/ic_email.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable/ic_id.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable/ic_logout.xml" value="0.16111111111111112" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable/ic_myfeed.xml" value="0.16111111111111112" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable/ic_notifications.xml" value="0.16111111111111112" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable/ic_number.xml" value="0.16111111111111112" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable/ic_person.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable/ic_phone.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable/ic_rate.xml" value="0.16111111111111112" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable/ic_share.xml" value="0.16111111111111112" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable/navigation_selector.xml" value="0.12" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/drawable/navigation_view_item_selected.xml" value="0.1" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/layout/activity_category_selected.xml" value="0.1597222222222222" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/layout/activity_donor_registration.xml" value="0.22" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/layout/activity_loginactivity.xml" value="0.22" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/layout/activity_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/layout/activity_profile.xml" value="0.1587962962962963" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/layout/activity_recipient_registration.xml" value="0.165625" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/layout/activity_select_registration.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/layout/activity_splash_screen.xml" value="0.1796875" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/layout/header.xml" value="0.1597222222222222" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/layout/user_display_layout.xml" value="0.1597222222222222" />
+        <entry key="..\:/Users/tabre/Downloads/BloodDonation/app/src/main/res/menu/main_menu.xml" value="0.16666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
